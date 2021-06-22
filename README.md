@@ -1,2 +1,2 @@
 # bot-roberta
-discord bot like an "inhuman housemaid".
+Discord Bot like an inhuman housemaid.
