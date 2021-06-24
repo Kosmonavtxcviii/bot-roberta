@@ -1,0 +1,19 @@
+{
+  "name": "bot-roberta",
+  "version": "0.0.1",
+  "description": "Discord Bot like an inhuman housemaid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksmnvtxcviii/bot-roberta.git"
+  },
+  "author": "ksmnvtxcviii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksmnvtxcviii/bot-roberta/issues"
+  },
+  "homepage": "https://github.com/ksmnvtxcviii/bot-roberta#readme"
+}
