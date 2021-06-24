@@ -4,7 +4,8 @@
   "description": "Discord Bot like an inhuman housemaid.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ksmnvtxcviii/bot-roberta/issues"
   },
-  "homepage": "https://github.com/ksmnvtxcviii/bot-roberta#readme"
+  "homepage": "https://github.com/ksmnvtxcviii/bot-roberta#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
 }
