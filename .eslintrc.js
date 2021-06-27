@@ -15,5 +15,9 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
+    semi: ['error', 'always'],
+    '@typescript-eslint/semi': ['error', 'always'],
+    '@typescript-eslint/explicit-function-return-type': ['error'],
+    'max-len': ['error', { code: 120 }]
   }
-}
+};
